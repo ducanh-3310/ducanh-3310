@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyễn Đức Anh
 
-<!--
-**ducanh-3310/ducanh-3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent graduate in Electronics and Telecommunications Engineering  
+💡 Aspiring AI Engineer | Passionate about Machine Learning & Signal Processing  
+🚀 Currently learning: Python, PyTorch, Computer Vision  
+📫 How to reach me: anh.nd3310@gmail.com
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: Python, C/C++
+- Tools: Git, Linux
+- AI/ML: Scikit-learn, Pandas, NumPy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🧠 **AI-Based Object Detection** – YOLOv11 model for real-time detection  
+
+## 🌐 Connect with me
+- Facebook: [facebook.com/ucanh.163558](https://www.facebook.com/ucanh.163558)
+- GitHub: [github.com/ducanh-3310](https://github.com/ducanh-3310)
+
